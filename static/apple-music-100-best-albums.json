@@ -1,0 +1,689 @@
+[
+  {
+    "number": "1",
+    "link": "https://en.wikipedia.org/wiki/The_Miseducation_of_Lauryn_Hill",
+    "album": "The Miseducation of Lauryn Hill",
+    "artist": "Lauryn Hill",
+    "year": "1998"
+  },
+  {
+    "number": "2",
+    "link": "https://en.wikipedia.org/wiki/Thriller_(album)",
+    "album": "Thriller",
+    "artist": "Michael Jackson",
+    "year": "1982"
+  },
+  {
+    "number": "3",
+    "link": "https://en.wikipedia.org/wiki/Abbey_Road",
+    "album": "Abbey Road",
+    "artist": "The Beatles",
+    "year": "1969"
+  },
+  {
+    "number": "4",
+    "link": "https://en.wikipedia.org/wiki/Purple_Rain_(album)",
+    "album": "Purple Rain",
+    "artist": "Prince",
+    "year": "Prince & The Revolution"
+  },
+  {
+    "number": "5",
+    "link": "https://en.wikipedia.org/wiki/Blonde_(Frank_Ocean_album)",
+    "album": "Blonde",
+    "artist": "Frank Ocean",
+    "year": "2016"
+  },
+  {
+    "number": "6",
+    "link": "https://en.wikipedia.org/wiki/Songs_in_the_Key_of_Life",
+    "album": "Songs in the Key of Life",
+    "artist": "Stevie Wonder",
+    "year": "1976"
+  },
+  {
+    "number": "7",
+    "link": "https://en.wikipedia.org/wiki/Good_Kid,_M.A.A.D_City",
+    "album": "Good Kid, M.A.A.D City",
+    "artist": "Kendrick Lamar",
+    "year": "2012"
+  },
+  {
+    "number": "8",
+    "link": "https://en.wikipedia.org/wiki/Back_to_Black",
+    "album": "Back to Black",
+    "artist": "Amy Winehouse",
+    "year": "2006"
+  },
+  {
+    "number": "9",
+    "link": "https://en.wikipedia.org/wiki/Nevermind",
+    "album": "Nevermind",
+    "artist": "Nirvana",
+    "year": "1991"
+  },
+  {
+    "number": "10",
+    "link": "https://en.wikipedia.org/wiki/Lemonade_(album)",
+    "album": "Lemonade",
+    "artist": "Beyoncé",
+    "year": "2016"
+  },
+  {
+    "number": "11",
+    "link": "https://en.wikipedia.org/wiki/Rumours_(album)",
+    "album": "Rumours",
+    "artist": "Fleetwood Mac",
+    "year": "1977"
+  },
+  {
+    "number": "12",
+    "link": "https://en.wikipedia.org/wiki/OK_Computer",
+    "album": "OK Computer",
+    "artist": "Radiohead",
+    "year": "1997"
+  },
+  {
+    "number": "13",
+    "link": "https://en.wikipedia.org/wiki/The_Blueprint",
+    "album": "The Blueprint",
+    "artist": "Jay-Z",
+    "year": "2001"
+  },
+  {
+    "number": "14",
+    "link": "https://en.wikipedia.org/wiki/Highway_61_Revisited",
+    "album": "Highway 61 Revisited",
+    "artist": "Bob Dylan",
+    "year": "1965"
+  },
+  {
+    "number": "15",
+    "link": "https://en.wikipedia.org/wiki/21_(Adele_album)",
+    "album": "21",
+    "artist": "Adele",
+    "year": "2011"
+  },
+  {
+    "number": "16",
+    "link": "https://en.wikipedia.org/wiki/Blue_(Joni_Mitchell_album)",
+    "album": "Blue",
+    "artist": "Joni Mitchell",
+    "year": "1971"
+  },
+  {
+    "number": "17",
+    "link": "https://en.wikipedia.org/wiki/What%27s_Going_On_(album)",
+    "album": "What's Going On",
+    "artist": "Marvin Gaye",
+    "year": "1971"
+  },
+  {
+    "number": "18",
+    "link": "https://en.wikipedia.org/wiki/1989_(Taylor%27s_Version)",
+    "album": "1989 (Taylor's Version)",
+    "artist": "Taylor Swift",
+    "year": "2023[a]"
+  },
+  {
+    "number": "19",
+    "link": "https://en.wikipedia.org/wiki/The_Chronic",
+    "album": "The Chronic",
+    "artist": "Dr. Dre",
+    "year": "1992"
+  },
+  {
+    "number": "20",
+    "link": "https://en.wikipedia.org/wiki/Pet_Sounds",
+    "album": "Pet Sounds",
+    "artist": "The Beach Boys",
+    "year": "1966"
+  },
+  {
+    "number": "21",
+    "link": "https://en.wikipedia.org/wiki/Revolver_(Beatles_album)",
+    "album": "Revolver",
+    "artist": "The Beatles",
+    "year": "1966"
+  },
+  {
+    "number": "22",
+    "link": "https://en.wikipedia.org/wiki/Born_to_Run",
+    "album": "Born to Run",
+    "artist": "Bruce Springsteen",
+    "year": "1975"
+  },
+  {
+    "number": "23",
+    "link": "https://en.wikipedia.org/wiki/Discovery_(Daft_Punk_album)",
+    "album": "Discovery",
+    "artist": "Daft Punk",
+    "year": "2001"
+  },
+  {
+    "number": "24",
+    "artist": "David Bowie",
+    "year": "1972"
+  },
+  {
+    "number": "25",
+    "link": "https://en.wikipedia.org/wiki/Kind_of_Blue",
+    "album": "Kind of Blue",
+    "artist": "Miles Davis",
+    "year": "1959"
+  },
+  {
+    "number": "26",
+    "link": "https://en.wikipedia.org/wiki/My_Beautiful_Dark_Twisted_Fantasy",
+    "album": "My Beautiful Dark Twisted Fantasy",
+    "artist": "Kanye West",
+    "year": "2010"
+  },
+  {
+    "number": "27",
+    "link": "https://en.wikipedia.org/wiki/Led_Zeppelin_II",
+    "album": "Led Zeppelin II",
+    "artist": "Led Zeppelin",
+    "year": "1969"
+  },
+  {
+    "number": "28",
+    "link": "https://en.wikipedia.org/wiki/The_Dark_Side_of_the_Moon",
+    "album": "The Dark Side of the Moon",
+    "artist": "Pink Floyd",
+    "year": "1973"
+  },
+  {
+    "number": "29",
+    "link": "https://en.wikipedia.org/wiki/The_Low_End_Theory",
+    "album": "The Low End Theory",
+    "artist": "A Tribe Called Quest",
+    "year": "1991"
+  },
+  {
+    "number": "30",
+    "link": "https://en.wikipedia.org/wiki/When_We_All_Fall_Asleep,_Where_Do_We_Go%3F",
+    "album": "When We All Fall Asleep, Where Do We Go?",
+    "artist": "Billie Eilish",
+    "year": "2019"
+  },
+  {
+    "number": "31",
+    "link": "https://en.wikipedia.org/wiki/Jagged_Little_Pill",
+    "album": "Jagged Little Pill",
+    "artist": "Alanis Morissette",
+    "year": "1995"
+  },
+  {
+    "number": "32",
+    "link": "https://en.wikipedia.org/wiki/Ready_to_Die",
+    "album": "Ready to Die",
+    "artist": "The Notorious B.I.G.",
+    "year": "1994"
+  },
+  {
+    "number": "33",
+    "link": "https://en.wikipedia.org/wiki/Kid_A",
+    "album": "Kid A",
+    "artist": "Radiohead",
+    "year": "2000"
+  },
+  {
+    "number": "34",
+    "link": "https://en.wikipedia.org/wiki/It_Takes_a_Nation_of_Millions_to_Hold_Us_Back",
+    "album": "It Takes a Nation of Millions to Hold Us Back",
+    "artist": "Public Enemy",
+    "year": "1989"
+  },
+  {
+    "number": "35",
+    "link": "https://en.wikipedia.org/wiki/London_Calling",
+    "album": "London Calling",
+    "artist": "The Clash",
+    "year": "1979"
+  },
+  {
+    "number": "36",
+    "link": "https://en.wikipedia.org/wiki/Beyonc%C3%A9_(album)",
+    "album": "Beyoncé",
+    "artist": "Beyoncé",
+    "year": "2013"
+  },
+  {
+    "number": "37",
+    "link": "https://en.wikipedia.org/wiki/Enter_the_Wu-Tang_(36_Chambers)",
+    "album": "Enter the Wu-Tang (36 Chambers)",
+    "artist": "Wu-Tang Clan",
+    "year": "1993"
+  },
+  {
+    "number": "38",
+    "link": "https://en.wikipedia.org/wiki/Tapestry_(Carole_King_album)",
+    "album": "Tapestry",
+    "artist": "Carole King",
+    "year": "1971"
+  },
+  {
+    "number": "39",
+    "link": "https://en.wikipedia.org/wiki/Illmatic",
+    "album": "Illmatic",
+    "artist": "Nas",
+    "year": "1994"
+  },
+  {
+    "number": "40",
+    "link": "https://en.wikipedia.org/wiki/I_Never_Loved_a_Man_the_Way_I_Love_You",
+    "album": "I Never Loved a Man the Way I Love You",
+    "artist": "Aretha Franklin",
+    "year": "1967"
+  },
+  {
+    "number": "41",
+    "link": "https://en.wikipedia.org/wiki/Aquemini",
+    "album": "Aquemini",
+    "year": "1998"
+  },
+  {
+    "number": "42",
+    "link": "https://en.wikipedia.org/wiki/Control_(Janet_Jackson_album)",
+    "album": "Control",
+    "artist": "Janet Jackson",
+    "year": "1986"
+  },
+  {
+    "number": "43",
+    "link": "https://en.wikipedia.org/wiki/Remain_in_Light",
+    "album": "Remain in Light",
+    "artist": "Talking Heads",
+    "year": "1980"
+  },
+  {
+    "number": "44",
+    "link": "https://en.wikipedia.org/wiki/Innervisions",
+    "album": "Innervisions",
+    "artist": "Stevie Wonder",
+    "year": "1973"
+  },
+  {
+    "number": "45",
+    "link": "https://en.wikipedia.org/wiki/Homogenic",
+    "album": "Homogenic",
+    "artist": "Björk",
+    "year": "1997"
+  },
+  {
+    "number": "46",
+    "link": "https://en.wikipedia.org/wiki/Exodus_(Bob_Marley_and_the_Wailers_album)",
+    "album": "Exodus",
+    "artist": "Bob Marley",
+    "year": "Bob Marley & The Wailers"
+  },
+  {
+    "number": "47",
+    "artist": "Drake",
+    "year": "2011"
+  },
+  {
+    "number": "48",
+    "link": "https://en.wikipedia.org/wiki/Paul%27s_Boutique",
+    "album": "Paul's Boutique",
+    "artist": "Beastie Boys",
+    "year": "1989"
+  },
+  {
+    "number": "49",
+    "link": "https://en.wikipedia.org/wiki/The_Joshua_Tree",
+    "album": "The Joshua Tree",
+    "artist": "U2",
+    "year": "1987"
+  },
+  {
+    "number": "50",
+    "link": "https://en.wikipedia.org/wiki/Hounds_of_Love",
+    "album": "Hounds of Love",
+    "artist": "Kate Bush",
+    "year": "1985"
+  },
+  {
+    "number": "51",
+    "link": "https://en.wikipedia.org/wiki/Sign_o%27_the_Times",
+    "album": "Sign o' the Times",
+    "artist": "Prince",
+    "year": "1987"
+  },
+  {
+    "number": "52",
+    "link": "https://en.wikipedia.org/wiki/Appetite_for_Destruction",
+    "album": "Appetite for Destruction",
+    "year": "1987"
+  },
+  {
+    "number": "53",
+    "artist": "The Rolling Stones",
+    "year": "1972"
+  },
+  {
+    "number": "54",
+    "link": "https://en.wikipedia.org/wiki/A_Love_Supreme",
+    "album": "A Love Supreme",
+    "artist": "John Coltrane",
+    "year": "1965"
+  },
+  {
+    "number": "55",
+    "link": "https://en.wikipedia.org/wiki/Anti_(album)",
+    "album": "Anti",
+    "artist": "Rihanna",
+    "year": "2016"
+  },
+  {
+    "number": "56",
+    "link": "https://en.wikipedia.org/wiki/Disintegration_(The_Cure_album)",
+    "album": "Disintegration",
+    "artist": "The Cure",
+    "year": "1989"
+  },
+  {
+    "number": "57",
+    "link": "https://en.wikipedia.org/wiki/Voodoo_(D%27Angelo_album)",
+    "album": "Voodoo",
+    "artist": "D'Angelo",
+    "year": "2000"
+  },
+  {
+    "number": "58",
+    "link": "https://en.wikipedia.org/wiki/(What%27s_the_Story)_Morning_Glory%3F",
+    "album": "(What's the Story) Morning Glory?",
+    "artist": "Oasis",
+    "year": "1995"
+  },
+  {
+    "number": "59",
+    "link": "https://en.wikipedia.org/wiki/AM_(Arctic_Monkeys_album)",
+    "album": "AM",
+    "artist": "Arctic Monkeys",
+    "year": "2013"
+  },
+  {
+    "number": "60",
+    "artist": "The Velvet Underground",
+    "year": "The Velvet Underground & Nico"
+  },
+  {
+    "number": "61",
+    "link": "https://en.wikipedia.org/wiki/Love_Deluxe",
+    "album": "Love Deluxe",
+    "artist": "Sade",
+    "year": "1992"
+  },
+  {
+    "number": "62",
+    "link": "https://en.wikipedia.org/wiki/All_Eyez_on_Me",
+    "album": "All Eyez on Me",
+    "year": "1996"
+  },
+  {
+    "number": "63",
+    "link": "https://en.wikipedia.org/wiki/Are_You_Experienced",
+    "album": "Are You Experienced",
+    "year": "1967"
+  },
+  {
+    "number": "64",
+    "link": "https://en.wikipedia.org/wiki/Baduizm",
+    "album": "Baduizm",
+    "artist": "Erykah Badu",
+    "year": "1997"
+  },
+  {
+    "number": "65",
+    "link": "https://en.wikipedia.org/wiki/3_Feet_High_and_Rising",
+    "album": "3 Feet High and Rising",
+    "artist": "De La Soul",
+    "year": "1989"
+  },
+  {
+    "number": "66",
+    "link": "https://en.wikipedia.org/wiki/The_Queen_Is_Dead",
+    "album": "The Queen Is Dead",
+    "artist": "The Smiths",
+    "year": "1986"
+  },
+  {
+    "number": "67",
+    "link": "https://en.wikipedia.org/wiki/Dummy_(album)",
+    "album": "Dummy",
+    "artist": "Portishead",
+    "year": "1994"
+  },
+  {
+    "number": "68",
+    "link": "https://en.wikipedia.org/wiki/Is_This_It",
+    "album": "Is This It",
+    "artist": "The Strokes",
+    "year": "2001"
+  },
+  {
+    "number": "69",
+    "link": "https://en.wikipedia.org/wiki/Master_of_Puppets",
+    "album": "Master of Puppets",
+    "artist": "Metallica",
+    "year": "1986"
+  },
+  {
+    "number": "70",
+    "link": "https://en.wikipedia.org/wiki/Straight_Outta_Compton",
+    "album": "Straight Outta Compton",
+    "artist": "N.W.A",
+    "year": "1988"
+  },
+  {
+    "number": "71",
+    "link": "https://en.wikipedia.org/wiki/Trans-Europe_Express_(album)",
+    "album": "Trans-Europe Express",
+    "artist": "Kraftwerk",
+    "year": "1977"
+  },
+  {
+    "number": "72",
+    "link": "https://en.wikipedia.org/wiki/SOS_(SZA_album)",
+    "album": "SOS",
+    "artist": "SZA",
+    "year": "2022"
+  },
+  {
+    "number": "73",
+    "link": "https://en.wikipedia.org/wiki/Aja_(album)",
+    "album": "Aja",
+    "artist": "Steely Dan",
+    "year": "1977"
+  },
+  {
+    "number": "74",
+    "link": "https://en.wikipedia.org/wiki/The_Downward_Spiral",
+    "album": "The Downward Spiral",
+    "artist": "Nine Inch Nails",
+    "year": "1994"
+  },
+  {
+    "number": "75",
+    "link": "https://en.wikipedia.org/wiki/Supa_Dupa_Fly",
+    "album": "Supa Dupa Fly",
+    "year": "1997"
+  },
+  {
+    "number": "76",
+    "link": "https://en.wikipedia.org/wiki/Un_Verano_Sin_Ti",
+    "album": "Un Verano Sin Ti",
+    "artist": "Bad Bunny",
+    "year": "2022"
+  },
+  {
+    "number": "77",
+    "link": "https://en.wikipedia.org/wiki/Like_a_Prayer_(album)",
+    "album": "Like a Prayer",
+    "artist": "Madonna",
+    "year": "1989"
+  },
+  {
+    "number": "78",
+    "link": "https://en.wikipedia.org/wiki/Goodbye_Yellow_Brick_Road",
+    "album": "Goodbye Yellow Brick Road",
+    "artist": "Elton John",
+    "year": "1973"
+  },
+  {
+    "number": "79",
+    "link": "https://en.wikipedia.org/wiki/Norman_Fucking_Rockwell!",
+    "album": "Norman Fucking Rockwell!",
+    "artist": "Lana Del Rey",
+    "year": "2019"
+  },
+  {
+    "number": "80",
+    "link": "https://en.wikipedia.org/wiki/The_Marshall_Mathers_LP",
+    "album": "The Marshall Mathers LP",
+    "artist": "Eminem",
+    "year": "2000"
+  },
+  {
+    "number": "81",
+    "link": "https://en.wikipedia.org/wiki/After_the_Gold_Rush",
+    "album": "After the Gold Rush",
+    "artist": "Neil Young",
+    "year": "1970"
+  },
+  {
+    "number": "82",
+    "link": "https://en.wikipedia.org/wiki/Get_Rich_or_Die_Tryin%27",
+    "album": "Get Rich or Die Tryin'",
+    "artist": "50 Cent",
+    "year": "2003"
+  },
+  {
+    "number": "83",
+    "link": "https://en.wikipedia.org/wiki/Horses_(album)",
+    "album": "Horses",
+    "artist": "Patti Smith",
+    "year": "1975"
+  },
+  {
+    "number": "84",
+    "link": "https://en.wikipedia.org/wiki/Doggystyle",
+    "album": "Doggystyle",
+    "artist": "Snoop Dogg",
+    "year": "1993"
+  },
+  {
+    "number": "85",
+    "link": "https://en.wikipedia.org/wiki/Golden_Hour_(Kacey_Musgraves_album)",
+    "album": "Golden Hour",
+    "artist": "Kacey Musgraves",
+    "year": "2018"
+  },
+  {
+    "number": "86",
+    "link": "https://en.wikipedia.org/wiki/My_Life_(Mary_J._Blige_album)",
+    "album": "My Life",
+    "artist": "Mary J. Blige",
+    "year": "1994"
+  },
+  {
+    "number": "87",
+    "link": "https://en.wikipedia.org/wiki/Blue_Lines",
+    "album": "Blue Lines",
+    "artist": "Massive Attack",
+    "year": "1991"
+  },
+  {
+    "number": "88",
+    "link": "https://en.wikipedia.org/wiki/I_Put_a_Spell_on_You_(album)",
+    "album": "I Put a Spell on You",
+    "artist": "Nina Simone",
+    "year": "1965"
+  },
+  {
+    "number": "89",
+    "link": "https://en.wikipedia.org/wiki/The_Fame_Monster",
+    "album": "The Fame Monster",
+    "artist": "Lady Gaga",
+    "year": "2009"
+  },
+  {
+    "number": "90",
+    "link": "https://en.wikipedia.org/wiki/Back_in_Black",
+    "album": "Back in Black",
+    "artist": "AC/DC",
+    "year": "1980"
+  },
+  {
+    "number": "91",
+    "link": "https://en.wikipedia.org/wiki/Listen_Without_Prejudice_Vol._1",
+    "album": "Listen Without Prejudice Vol. 1",
+    "artist": "George Michael",
+    "year": "1990"
+  },
+  {
+    "number": "92",
+    "link": "https://en.wikipedia.org/wiki/Flower_Boy",
+    "album": "Flower Boy",
+    "artist": "Tyler, the Creator",
+    "year": "2017"
+  },
+  {
+    "number": "93",
+    "link": "https://en.wikipedia.org/wiki/A_Seat_at_the_Table",
+    "album": "A Seat at the Table",
+    "artist": "Solange",
+    "year": "2016"
+  },
+  {
+    "number": "94",
+    "link": "https://en.wikipedia.org/wiki/Untrue_(album)",
+    "album": "Untrue",
+    "artist": "Burial",
+    "year": "2007"
+  },
+  {
+    "number": "95",
+    "link": "https://en.wikipedia.org/wiki/Confessions_(Usher_album)",
+    "album": "Confessions",
+    "artist": "Usher",
+    "year": "2004"
+  },
+  {
+    "number": "96",
+    "link": "https://en.wikipedia.org/wiki/Pure_Heroine",
+    "album": "Pure Heroine",
+    "artist": "Lorde",
+    "year": "2013"
+  },
+  {
+    "number": "97",
+    "link": "https://en.wikipedia.org/wiki/Rage_Against_the_Machine_(album)",
+    "album": "Rage Against the Machine",
+    "artist": "Rage Against the Machine",
+    "year": "1992"
+  },
+  {
+    "number": "98",
+    "link": "https://en.wikipedia.org/wiki/Astroworld_(album)",
+    "album": "Astroworld",
+    "artist": "Travis Scott",
+    "year": "2018"
+  },
+  {
+    "number": "99",
+    "link": "https://en.wikipedia.org/wiki/Hotel_California_(album)",
+    "album": "Hotel California",
+    "artist": "Eagles",
+    "year": "1976"
+  },
+  {
+    "number": "100",
+    "link": "https://en.wikipedia.org/wiki/Body_Talk_(Robyn_album)",
+    "album": "Body Talk",
+    "artist": "Robyn",
+    "year": "2010"
+  }
+]
