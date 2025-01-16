@@ -22,7 +22,7 @@
 <main>
     <h1>Shuffle</h1>
     <p>Listen without hesitation.</p>
-    <button on:click={getRandomAlbum}>随机选一个专辑</button>
+    <button on:click={getRandomAlbum}>Shuffle</button>
 
     {#if selectedAlbum}
         <div class="album">
