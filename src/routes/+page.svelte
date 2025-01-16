@@ -26,7 +26,7 @@
 
     {#if selectedAlbum}
         <div class="album">
-            <h2>{selectedAlbum.name}</h2>
+            <h2>{selectedAlbum.album}</h2>
             <p><strong>Artist：</strong>{selectedAlbum.artist}</p>
             <p><strong>Year：</strong>{selectedAlbum.year}</p>
             <a href={selectedAlbum.link} target="_blank">More</a>
