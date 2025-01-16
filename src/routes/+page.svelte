@@ -21,16 +21,16 @@
         }
     }
 
-    function getAppleMusicSearchLink(album) {
-        if (!album) return "";
-        const query = `${album.name}`;
-        return `https://music.apple.com/us/search?term=${encodeURIComponent(query)}`;
-    }
-
     function getAppleMusicDeeplink(album) {
         if (!album) return "";
         const query = `${album.name} ${album.artist}`;
         return `music://search?term=${encodeURIComponent(query)}`;
+    }
+
+    function getSpotifySearchLink(album) {
+        if (!album) return "";
+        const query = `${album.name} ${album.artist}`;
+        return `https://open.spotify.com/search/${encodeURIComponent(query)}`;
     }
 </script>
 
@@ -45,8 +45,17 @@
             <p><strong>Artist：</strong>{selectedAlbum.artist}</p>
             <p><strong>Year：</strong>{selectedAlbum.year}</p>
             <p>
-                <a href={getAppleMusicDeeplink(selectedAlbum)} target="_blank"
-                    >open in Apple Music</a
+                <a
+                    href={getAppleMusicDeeplink(selectedAlbum)}
+                    target="_blank"
+                    rel="noopener noreferrer">open in Apple Music</a
+                >
+            </p>
+            <p>
+                <a
+                    href={getSpotifySearchLink(selectedAlbum)}
+                    target="_blank"
+                    rel="noopener noreferrer">open in Spotify</a
                 >
             </p>
 
