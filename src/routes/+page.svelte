@@ -41,7 +41,7 @@
 
     {#if selectedAlbum}
         <div class="album">
-            <h2>{selectedAlbum.album}</h2>
+            <h2>{selectedAlbum.name}</h2>
             <p><strong>Artist：</strong>{selectedAlbum.artist}</p>
             <p><strong>Year：</strong>{selectedAlbum.year}</p>
             <p>
@@ -58,9 +58,9 @@
                     rel="noopener noreferrer">open in Spotify</a
                 >
             </p>
-
             <p>
-                <a href={selectedAlbum.link} target="_blank">Wiki Detail</a>
+                <a href={selectedAlbum.link} target="_blank">view Wiki Detail</a
+                >
             </p>
         </div>
     {/if}
