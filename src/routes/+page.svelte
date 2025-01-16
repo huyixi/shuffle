@@ -8,6 +8,7 @@
     onMount(async () => {
         const response = await fetch("/apple-music-100-best-albums.json");
         albums = await response.json();
+        getRandomAlbum();
     });
 
     // 随机选择专辑
