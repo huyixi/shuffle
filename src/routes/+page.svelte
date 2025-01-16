@@ -16,7 +16,21 @@
         if (albums.length > 0) {
             const randomIndex = Math.floor(Math.random() * albums.length);
             selectedAlbum = albums[randomIndex];
+            selectedAlbum.appleMusicLink =
+                getAppleMusicSearchLink(selectedAlbum);
         }
+    }
+
+    function getAppleMusicSearchLink(album) {
+        if (!album) return "";
+        const query = `${album.name}`;
+        return `https://music.apple.com/us/search?term=${encodeURIComponent(query)}`;
+    }
+
+    function getAppleMusicDeeplink(album) {
+        if (!album) return "";
+        const query = `${album.name} ${album.artist}`;
+        return `music://search?term=${encodeURIComponent(query)}`;
     }
 </script>
 
@@ -30,7 +44,15 @@
             <h2>{selectedAlbum.album}</h2>
             <p><strong>Artist：</strong>{selectedAlbum.artist}</p>
             <p><strong>Year：</strong>{selectedAlbum.year}</p>
-            <a href={selectedAlbum.link} target="_blank">More</a>
+            <p>
+                <a href={getAppleMusicDeeplink(selectedAlbum)} target="_blank"
+                    >open in Apple Music</a
+                >
+            </p>
+
+            <p>
+                <a href={selectedAlbum.link} target="_blank">Wiki Detail</a>
+            </p>
         </div>
     {/if}
 </main>
